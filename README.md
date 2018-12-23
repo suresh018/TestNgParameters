@@ -1,5 +1,5 @@
 # TestNgParameters
-This si a maven project with testng.
+This is a maven project with testng.
 To run this project:
 From Ecliepse:
 clean
